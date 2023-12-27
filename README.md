@@ -1,9 +1,1 @@
-- 🔭 I’m currently working on ... Inlämningsuppgift
-- 🌱 I’m currently learning ... Projektledning
-- 👯 I’m looking to collaborate on ... Decentralized Applications
-- 🤔 I’m looking for help with ... Dicipline
-- 💬 Ask me about ... ETH
-- 📫 How to reach me: ... With a text message if you got my Number.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Agile Project Manager / Scrum Master learning a new skill to become more technical.
